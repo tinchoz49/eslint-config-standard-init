@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-standard-init",
+  "version": "1.0.0",
+  "description": "A standard base to extend your eslint config files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinchoz49/eslint-config-standard-init.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinchoz49/eslint-config-standard-init/issues"
+  },
+  "homepage": "https://github.com/tinchoz49/eslint-config-standard-init#readme",
+  "dependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.29.4"
+  },
+  "peerDependencies": {
+    "eslint": "^8.13.0"
+  }
+}
