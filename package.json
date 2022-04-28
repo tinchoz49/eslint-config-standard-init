@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A standard base to extend your eslint config files",
   "main": "index.js",
   "scripts": {
