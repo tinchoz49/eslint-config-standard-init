@@ -1,11 +1,10 @@
 module.exports = {
   env: {
-    browser: true,
     es2021: true
   },
   extends: [
-    'plugin:react/recommended',
-    'standard'
+    'standard',
+    'standard-jsx'
   ],
   parserOptions: {
     ecmaFeatures: {
@@ -14,9 +13,6 @@ module.exports = {
     ecmaVersion: 'latest',
     sourceType: 'module'
   },
-  plugins: [
-    'react'
-  ],
   rules: {
     "react/prop-types": 0
   }

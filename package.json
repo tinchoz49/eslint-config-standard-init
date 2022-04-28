@@ -18,11 +18,12 @@
   },
   "homepage": "https://github.com/tinchoz49/eslint-config-standard-init#readme",
   "dependencies": {
-    "eslint-config-standard": "^17.0.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-config-standard-jsx": "^11.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.1.0",
     "eslint-plugin-promise": "^6.0.0",
-    "eslint-plugin-react": "^7.29.4"
+    "eslint-plugin-react": "^7.28.0"
   },
   "peerDependencies": {
     "eslint": "^8.13.0"
